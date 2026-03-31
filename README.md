@@ -2,50 +2,6 @@
 
 A beautiful, offline-ready Progressive Web App for todos and notes.
 
-## 🚀 Deploy to GitHub Pages — Exact Commands
-
-### Step 1: Initialize Git & Push
-
-```bash
-# Navigate into your project folder
-cd todo-pwa
-
-# Initialize git
-git init
-
-# Add all files
-git add .
-
-# First commit
-git commit -m "🚀 Initial commit — Noted. PWA"
-
-# Rename branch to main
-git branch -M main
-
-# Add your GitHub remote (replace YOUR_USERNAME and YOUR_REPO)
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-
-# Push to GitHub
-git push -u origin main
-```
-
-### Step 2: Enable GitHub Pages
-
-1. Go to: `https://github.com/YOUR_USERNAME/YOUR_REPO/settings/pages`
-2. Under **Source** → select **Deploy from a branch**
-3. Branch: `main` | Folder: `/ (root)`
-4. Click **Save**
-
-### Step 3: Your Live URL
-
-```
-https://YOUR_USERNAME.github.io/YOUR_REPO/
-```
-
-⏱ Wait 1–3 minutes after saving, then visit the URL!
-
----
-
 ## 📁 Project Structure
 
 ```
