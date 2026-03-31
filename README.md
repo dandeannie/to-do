@@ -1,4 +1,4 @@
-# Noted. — Todo & Notes PWA
+# Noted. - Todo & Notes PWA
 
 A beautiful, offline-ready Progressive Web App for todos and notes.
 
